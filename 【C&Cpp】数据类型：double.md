@@ -1,4 +1,4 @@
-# 【C&C++】数据类型：double
+# 【C&Cpp】数据类型：double
 
 
 
